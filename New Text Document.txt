@@ -1,0 +1,10 @@
+FROM	TO	Projects	Detailed works completed LAST week 	Plan THIS week 	Any issues/problems
+02/12/2019	06/12/2019	ESP	Learnt about ESP onboarding documentation	Familiar with management of onboarded products MP. 	NA
+		Translation	1. Translated 2 DevOps Runbooks;
+2. Made three meeting minutes;
+3. Made IOS engineer interview records;
+4. Supported other daily works	1. Support Kevin for DevOps engineer interview. 
+2. Support for other works. 	NA
+		Learning	1. Learnt about GIT and created an account and Node.js project on Github for further learning.
+2. Knew about keywords, Docker, Git, CI/CD, Frame. 	1. To practice Git commands via the created Github project. 
+2. To learn about more key words and their meanings. 	NA
